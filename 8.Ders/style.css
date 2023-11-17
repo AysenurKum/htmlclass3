@@ -124,7 +124,8 @@ div.mavi {
     width: 150px;
     height: 150px;
     background-color: blue;
-    position: absolute;
-    right: 0;
-    bottom: 0;
+    position: relative;
+    left: calc(50% - 75px);
+    top: calc(50% - 75px);
+    
 }
